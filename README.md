@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Andrei and I am a Senior Staff Software Engineer, working for one of the tech giants in Silicon Valley, California, USA. I am pretty busy with work these days, so you will unfortunately not see me here much besides the occasional update for my config files. My main interest these days is Machine Learning Infrastructure.
+My name is Andrei and I am a Senior Staff Software Engineer, working for one of the tech giants in Silicon Valley, California, USA. My main interest these days is Machine Learning Infrastructure.
 
 ### Open Source Contributions 🐍
 
@@ -23,8 +23,7 @@ My name is Andrei and I am a Senior Staff Software Engineer, working for one of 
 
 ### Software Online Presence 💻
 
-- [StackOverflow](https://stackoverflow.com/users/3374785/andrei-cioara)
-- [LeetCode](https://leetcode.com/u/andreicioara/)
+[StackOverflow](https://stackoverflow.com/users/3374785/andrei-cioara) | [LeetCode](https://leetcode.com/u/andreicioara/)
 
 ### Contact 🤝
 
